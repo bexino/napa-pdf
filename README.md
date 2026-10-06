@@ -22,7 +22,9 @@ Output: to `output\` under the source folder.
 
 ## Quick Start
 
-Download the latest release.
+Download the latest release:  
+
+https://github.com/bexino/napa-pdf/releases
 
 > [!NOTE]
 > Because PyMuPDF and the Python runtime need to be embedded, the exe is relatively large.
@@ -167,7 +169,9 @@ Apache-2.0 license
 
 ## 快速开始
 
-下载最新发布版本。
+下载最新发布版本：  
+
+https://github.com/bexino/napa-pdf/releases
 
 > [!NOTE]
 > 因为需要内嵌 PyMuPDF 与 Python 运行时，故 exe 体积较大。
