@@ -2,6 +2,8 @@
 
 Add file names to PDF headers in batches.
 
+---
+
 ## Features
 
 For all PDF files in the input target folder:
@@ -17,8 +19,6 @@ Output: to `output\` under the source folder.
 >
 > - Subdirectories are not processed; only the first level of the folder is scanned;
 > - Encrypted PDFs are skipped.
-
----
 
 ## Quick Start
 
@@ -141,11 +141,18 @@ It first automatically generates test samples, then runs 9 acceptance groups (ex
 | `test_searchable.py` | File name is searchable character by character (ToUnicode) |
 | `test_paths.py` | Path cleaning: drag-and-drop quotes / trailing slash / environment variables / `~` |
 
+---
+
 ## License
 
 Apache-2.0 license
 
+---
+
+
 # 简体中文
+
+---
 
 将文件名批量添加至 PDF 页眉。
 
@@ -164,8 +171,6 @@ Apache-2.0 license
 > 
 > - 不会处理子目录，只扫描文件夹第一层；
 > - 加密 PDF 会被跳过。
-
----
 
 ## 快速开始
 
@@ -287,6 +292,8 @@ python tests\run_all.py
 | `test_fidelity.py` | 几何保真：内容不丢不变形、文本保留、纵横比不变 |
 | `test_searchable.py` | 文件名逐字可检索（ToUnicode） |
 | `test_paths.py` | 路径清洗：拖拽引号 / 尾斜杠 / 环境变量 / `~` |
+
+---
 
 ## 许可证
 
