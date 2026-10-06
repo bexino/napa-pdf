@@ -1,6 +1,6 @@
 # napa-pdf
 
-[TOC]
+Add file names to PDF headers in batches.
 
 ## Features
 
@@ -143,8 +143,9 @@ It first automatically generates test samples, then runs 9 acceptance groups (ex
 
 Apache-2.0 license
 
-
 # 简体中文
+
+将文件名批量添加至 PDF 页眉。
 
 ## 特性
 
