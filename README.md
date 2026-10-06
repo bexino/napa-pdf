@@ -1,3 +1,11 @@
+[![简体中文](https://img.shields.io/badge/简体中文-zh__cn-red)](#简体中文)
+[![QuickStart](https://img.shields.io/badge/Quick-Start-orange)](#quick-start)
+[![GitHub release](https://img.shields.io/github/v/release/bexino/napa-pdf?color=yellow)](https://github.com/bexino/napa-pdf/releases)
+[![Commit Activity](https://img.shields.io/github/commit-activity/t/bexino/napa-pdf?color=green)](https://github.com/bexino/napa-pdf/commits/main/)
+[![License](https://img.shields.io/github/license/bexino/napa-pdf?color=blue)](https://github.com/bexino/napa-pdf/blob/main/LICENSE)
+[![MadeWith♥](https://img.shields.io/badge/@bexino-Made_With_♥-purple)](https://github.com/bexino)
+[![ViewInGithub](https://img.shields.io/badge/Github-bexino%2Fnapa--pdf-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino/napa-pdf/)
+
 # napa-pdf
 
 Add file names to PDF headers in batches.
