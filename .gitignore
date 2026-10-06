@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# 打包产物
+/dist/
+/build/
+*.spec
+
+# 临时目录
+/.probe/
+/.audit/
+
+# 测试生成的样本与输出
+/tests/samples/
+/tests/output/
+*.tmp
+*.napa.tmp
+
+# 测试运行产生的目录
+/tests/exe_测试输出/
+/tests/samples/output/
+/tests/samples/exe_测试输出/
+
+# 日志与临时文件
+*.log
+*.bak
+Thumbs.db
+desktop.ini
+
+.skill/
